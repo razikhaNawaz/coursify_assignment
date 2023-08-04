@@ -1,0 +1,34 @@
+/* StepsSection.css */
+
+.steps-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 40px;
+    background-color: #f0f0f0;
+  }
+  
+  .step {
+    text-align: center;
+    max-width: 300px;
+  }
+  
+  .step img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .step h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .step p {
+    font-size: 18px;
+    color: #555;
+  }
+  

@@ -1,0 +1,31 @@
+/* HeroSection.css */
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-color: grey; /* Light gray background */
+  }
+  
+  .hero-content {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff; /* White background */
+    border: 1px solid #ccc;
+  }
+  
+  .hero-content h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333; /* Dark gray text color */
+    margin-bottom: 10px;
+  }
+  
+  .hero-content p {
+    font-size: 18px;
+    color: #555; /* Medium gray text color */
+    margin-bottom: 15px;
+  }
+  
